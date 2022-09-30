@@ -10,5 +10,6 @@
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "editor.minimap.enabled": false
+  "editor.minimap.enabled": false,
+  "cSpell.words": ["nodechatapplication"]
 }
