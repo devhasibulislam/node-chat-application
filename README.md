@@ -29,3 +29,5 @@
 - Admin - `hasib143sl@gmail.com` and `Hasib@123`
 - User1 - `jenifasanzoo@gmail.com` and `Sanjida@123`
 - User2 - `khanumsadia22@gmail.com` and `Sadia@123`
+- User3 - `rkrakibhasan680@gmail.com` and `Rakib@123`
+- User4 - `sabbirhasanmithu420@gmail.com` and `Sabbir@123`
