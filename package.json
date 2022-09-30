@@ -1,22 +1,14 @@
 {
   "name": "chat-application",
   "version": "1.0.0",
-  "description": "Learn with Sumit Node.js Chat Application",
-  "main": "app.js",
+  "description": "A chat application with fully functional approach to get up with your partners also.",
+  "main": "index.js",
   "scripts": {
-    "development": "NODE_ENV=development nodemon app.js",
-    "production": "NODE_ENV=production node app.js"
+    "development": "NODE_ENV=development nodemon index.js",
+    "production": "NODE_ENV=production node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/learnwithsumit/chat-application.git"
-  },
-  "author": "Sumit Saha <sumit.analyzen@gmail.com>",
+  "author": "Hasibul Islam",
   "license": "UNLICENSED",
-  "bugs": {
-    "url": "https://github.com/learnwithsumit/chat-application/issues"
-  },
-  "homepage": "https://github.com/learnwithsumit/chat-application#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cookie-parser": "^1.4.5",
