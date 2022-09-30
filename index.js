@@ -32,6 +32,7 @@ app.locals.moment = moment;
 // database connection
 mongoose
   .connect(process.env.MONGO_CONNECTION_STRING, {
+    dbName: "chat",
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
